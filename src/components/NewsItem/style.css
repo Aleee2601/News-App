@@ -1,0 +1,104 @@
+.card:hover{
+    transform: scale(1.05);
+    transition: transform 300ms ease;
+}
+.card{
+    transition: transform 300ms ease;
+}
+/* @import url("https://fonts.googleapis.com/css?family=Open+Sans");
+
+:root {
+  --flexSize: 10em;
+  --boxSpacing: 1.8em;
+  --colorText: #404646;
+}
+
+.latest-news {
+  text-align: center;
+  margin-bottom: 20px;
+  display: flex;
+}
+
+.news-card {
+  background-color: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  margin: 0 20px;
+  max-width: 300px;
+  max-height: 400px;
+}
+
+.card-body {
+  padding: 20px;
+}
+
+.card-title {
+  margin-bottom: 10px;
+  color: #333333;
+}
+
+.card-text {
+  color: #666666;
+}
+
+.card-image {
+  width: 100%;
+  height: auto;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+}
+
+.read-more {
+  display: inline-block;
+  margin-top: 15px;
+  color: #007bff;
+  text-decoration: none;
+}
+
+.read-more:hover {
+  text-decoration: underline;
+}
+
+.card:hover {
+  transform: scale(1.05);
+  transition: transform 300ms ease;
+}
+
+.card {
+  transition: transform 300ms ease;
+}
+
+@media (max-width: 1100px) {
+  .card {
+    margin-bottom: 0.5rem;
+  }
+
+  .card img {
+    max-width: calc(var(--flexSize) * 1.2);
+  }
+}
+
+@media (max-width: 848px) {
+  .card {
+    max-width: 100%;
+  }
+
+  .container {
+    min-height: 21rem;
+  }
+}
+
+@media (max-width: 570px) {
+  .card {
+    height: var(--flexSize);
+    flex: 1 1 auto;
+    display: flex;
+    background-color: white;
+    box-shadow: 1px 3px 3px rgba(0, 10, 20, 0.06);
+  }
+
+  .card img {
+    max-width: 45%;
+  }
+} */
